@@ -1,0 +1,33 @@
+body {
+    width: 300px;
+    padding: 10px;
+    font-family: Arial, sans-serif;
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  .input-container {
+    margin: 10px 0;
+  }
+  
+  label {
+    display: block;
+    font-weight: bold;
+  }
+  
+  input, select {
+    width: 100%;
+  }
+  
+  .result {
+    margin-top: 10px;
+    text-align: center;
+  }
+  
+  button#convert {
+    display: block;
+    margin: 10px auto;
+  }
+  
